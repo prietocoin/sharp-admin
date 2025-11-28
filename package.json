@@ -1,0 +1,13 @@
+{
+  "name": "sharp-admin-service",
+  "version": "1.0.0",
+  "description": "API para administrar el servicio Sharp.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "child_process": "^1.0.2"
+  }
+}
